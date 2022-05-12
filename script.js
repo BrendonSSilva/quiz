@@ -3,7 +3,6 @@
 //3 - pegar a primeira questao e exibir 
 //4 - quando clicar uma das opcoes, salvar a informacao se acertou ou nao e ir para a proxima questao
 
-
 //questão atual
 let currentQuestion = 0;
 let correctAnswers = 0;

@@ -6,6 +6,7 @@ Este foi um projeto mais complexo, porém nem tanto. Foram usadas muitas condiç
 Para a soma total dos pontos, foi utilizado evento de click nas opções, e para identificar onde foi o click, foram utilizados atributos para cada uma das opções. Assim, de acordo com a opção clicada, irá somar os acertos, que dependendo do número de acertos, irá definir qual frase será mostrada ao fim do quiz.
 
 # Imagens do projeto
+(Link no final)<br>
 
 Primeira pergunta
 <img src='images/img1.png'>
@@ -16,4 +17,6 @@ A barra de progresso é atualizada conforme as perguntas são respondidas
 Resultado final com o total de acertos e mensagem personalizada
 <img src='images/img3.png'>
 <img src='images/img4.png'>
-<img src='images/img5.png'>
+<img src='images/img5.png'><br>
+
+Link: https://brendonssilva.github.io/quiz/
